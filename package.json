@@ -21,7 +21,8 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.6.1",
     "mongoose": "^5.10.3",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+	"normalize-url": "^4.1.0",
   },
   "devDependencies": {
     "concurrently": "^5.3.0",
